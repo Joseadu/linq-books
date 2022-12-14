@@ -1,0 +1,15 @@
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\bin\Debug\net7.0\books.exe
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\bin\Debug\net7.0\books.deps.json
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\bin\Debug\net7.0\books.runtimeconfig.json
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\bin\Debug\net7.0\books.dll
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\bin\Debug\net7.0\books.pdb
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.csproj.AssemblyReference.cache
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.AssemblyInfoInputs.cache
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.AssemblyInfo.cs
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.csproj.CoreCompileInputs.cache
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.dll
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\refint\books.dll
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.pdb
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\books.genruntimeconfig.cache
+C:\Users\josed\programacion\Cursos\Platzi\linq\books\obj\Debug\net7.0\ref\books.dll
